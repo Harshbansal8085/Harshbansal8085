@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm [Akshat Choukse!](https://github.com/akshatchoukse)!!
+# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm [Harsh Bansal!](https://github.com/Harshbansal8085)!!
 
 </div>
 
@@ -14,9 +14,8 @@
 
 - 💡 &nbsp;I like to explore new technologies.
 - 🎓 &nbsp;I'm a student of Chameli Devi Group Of Institutions
-- 🌱 &nbsp;I'm currently learning _full stack web development_.
-- ❤️ &nbsp;My favorite language: `JavaScript`.
-- ✉️ &nbsp;You can email me at choukseakshat@gmail.com.
+- 🌱 &nbsp;I'm currently learning _full stack web development_
+- ✉️ &nbsp;You can email me at harshbansal4562@gmail.com.
 
 <!---
 --->
@@ -35,7 +34,3 @@
 
 
 
-## :mailbox: Connect With Me
-
-<a href="https://www.linkedin.com/in/akshat-choukse-9033a82a0/"><img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a>
-<a href="mailto: choukseakshat@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a>
